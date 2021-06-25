@@ -1,0 +1,7 @@
+            {
+              "host": "x86_64-mingw32",
+              "url": "https://github.com/earlephilhower/mklittlefs/releases/download/-2.5.0-2/x86_64-w64-mingw32-mklittlefs-1ee4877.zip",
+              "archiveFileName": "x86_64-w64-mingw32-mklittlefs-1ee4877.zip",
+              "checksum": "SHA-256:ba66e6252970f5e18447fd19360bad46c4def29c3cc1cd9a2522e42039b71175",
+              "size": "347289"
+            }

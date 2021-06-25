@@ -1,0 +1,7 @@
+            {
+              "host": "aarch64-linux-gnu",
+              "url": "https://github.com/earlephilhower/mklittlefs/releases/download/-2.5.0-2/aarch64-linux-gnu-mklittlefs-1ee4877.tar.gz",
+              "archiveFileName": "aarch64-linux-gnu-mklittlefs-1ee4877.tar.gz",
+              "checksum": "SHA-256:f1bda7eba4b97a06e580f176be6b416c505babb975de4006875c9817c7a6b612",
+              "size": "46413"
+            }
